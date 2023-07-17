@@ -1,16 +1,6 @@
 # quotes_app
 
-A new Flutter project.
+This is a quote app that allows people check out quotes made by popular authors and persons.
+The app has a card flip feature that allows users to click on a card for quote card to flip and show the author of the quote.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
