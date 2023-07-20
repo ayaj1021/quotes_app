@@ -125,20 +125,20 @@ class _LoginScreenState extends State<LoginScreen> {
                   },
                 ),
                 20.height,
-                Row(
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  children: [
-                    GestureDetector(
-                      onTap: () {
-                        Navigator.pushReplacementNamed(context, '/signup');
-                      },
-                      child: const Text(
-                        'Don\'t have an account? Signup',
-                        style: AppTextStyle.bodyText,
-                      ),
-                    ),
-                  ],
-                )
+                // Row(
+                //   mainAxisAlignment: MainAxisAlignment.center,
+                //   children: [
+                //     GestureDetector(
+                //       onTap: () {
+                //         Navigator.pushReplacementNamed(context, '/signup');
+                //       },
+                //       child: const Text(
+                //         'Don\'t have an account? Signup',
+                //         style: AppTextStyle.bodyText,
+                //       ),
+                //     ),
+                //   ],
+                // )
               ],
             ),
           ),

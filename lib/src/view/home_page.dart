@@ -150,10 +150,11 @@ class _HomePageState extends State<HomePage> {
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
-                OutlinedButton.icon(
-                    onPressed: showPrevCard,
-                    icon: const Icon(Icons.chevron_left),
-                    label: const Text('Prev')),
+                // OutlinedButton.icon(
+                //     onPressed: 
+                  //showPrevCard,
+                //     icon: const Icon(Icons.chevron_left),
+                //     label: const Text('Prev')),
                 190.width,
                 OutlinedButton.icon(
                     onPressed: showNextCard,
